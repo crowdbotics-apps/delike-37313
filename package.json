@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "cordova-plugin-sideloaded": "*",
     "cordova-plugin-google-payments": "*",
     "cordova-plugin-publish": "*",
     "react": "17.0.1",
